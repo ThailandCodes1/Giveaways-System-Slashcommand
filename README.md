@@ -2,7 +2,7 @@
 
 > a fully customized giveaway system which was made with discord.js ( v14 )
 
-> as the community memberes requested
+> as the community members requested
 
 # ⚠️ Note :
 
